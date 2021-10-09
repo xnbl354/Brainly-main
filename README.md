@@ -31,12 +31,6 @@
     > python3 main.py
     ```
     
-    ### Tools Overview
-    |    main.py    |
-    | ------------- |
-    |![Index](https://i.ibb.co/YdP9YMB/4397714d0169.jpg)|
-    
-    
     ### Special Thanks To
     <ul><li><a href="https://github.com/krypton-byte/brainly-scraper">Krypton-Byte For Module</a></li></ul>
     <ul><li><a href="https://github.com/MrG3P5/Brainly-CLI-Python">My Friend</a></li></ul>
